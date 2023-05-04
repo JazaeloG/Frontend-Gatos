@@ -1,4 +1,4 @@
-var url="http://localhost:3330/api/gatos";
+var url="https://gatos-api-service-jazaelog.cloud.okteto.net/api/gatos";
 
 function postGato(){
     console.log(url);
